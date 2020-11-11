@@ -1,2 +1,3 @@
 # Ears_back
-Use AAudio to achieve ears back function
+Earsback implementation for Android using AAudio
+在Android中使用AAudio实现耳返功能
