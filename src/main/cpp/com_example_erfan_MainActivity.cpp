@@ -33,4 +33,3 @@ JNIEXPORT void JNICALL Java_com_example_erfan_MainActivity_stopEF
 #ifdef __cplusplus
 }
 #endif
-
